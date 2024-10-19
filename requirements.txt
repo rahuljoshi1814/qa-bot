@@ -1,0 +1,11 @@
+streamlit
+pinecone-client
+cohere
+sentence-transformers
+pdfplumber
+PyPDF2
+torch
+transformers
+numpy
+pandas
+nltk
